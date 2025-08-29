@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import { WalletProvider } from './components/WalletProvider';
 import EnhancedNavigation from './components/layout/EnhancedNavigation';
-import AppRoutes from './routes';
+import AppRoutes from './routes.tsx';
 import { Toaster } from 'react-hot-toast';
 
 const App: React.FC = () => {
