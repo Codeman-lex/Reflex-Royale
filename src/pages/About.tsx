@@ -10,13 +10,13 @@ const About = () => {
         <div className="max-w-6xl mx-auto px-4 pt-12 pb-20 relative">
           <div className="text-center space-y-6 max-w-3xl mx-auto">
             <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-white to-[var(--accent)] bg-clip-text text-transparent">
-              About Solana Casino Platform
+              About Reflex Royale Platform
             </h1>
             <p className="text-xl text-[var(--text-secondary)] max-w-2xl mx-auto mb-8">
               A revolutionary platform that transforms any Solana token into a fully-featured casino ecosystem with provably fair games and seamless integration.
             </p>
             <div className="mt-8 rounded-xl overflow-hidden shadow-2xl border border-[var(--accent)]/30 max-w-2xl mx-auto">
-              <img src="/slots.png" alt="Solana Casino Slots Game" className="w-full h-auto" />
+                              <img src="/slots.png" alt="Reflex Royale Slots Game" className="w-full h-auto" />
             </div>
           </div>
         </div>
@@ -120,7 +120,7 @@ const About = () => {
               version="v1.0.0"
               date="January 2025"
               title="Initial Release"
-              description="First public release of the Solana Casino Platform."
+                              description="First public release of the Reflex Royale Platform."
               features={[
                 "Basic CoinFlip and DiceRoll games",
                 "Wallet integration with Phantom",

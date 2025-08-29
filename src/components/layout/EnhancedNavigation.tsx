@@ -126,7 +126,7 @@ const EnhancedNavigation: React.FC = () => {
                 />
               </motion.div>
               <div>
-                <div className="text-xl font-black gradient-text">SOLANA CASINO</div>
+                <div className="text-xl font-black gradient-text">REFLEX ROYALE</div>
                 <div className="text-xs text-[var(--text-secondary)]">Ultra Gaming Platform</div>
               </div>
             </Link>
@@ -324,7 +324,7 @@ const EnhancedNavigation: React.FC = () => {
                       <Crown className="w-6 h-6 text-white" />
                     </div>
                     <div>
-                      <div className="font-bold gradient-text">SOLANA CASINO</div>
+                      <div className="font-bold gradient-text">REFLEX ROYALE</div>
                       <div className="text-xs text-[var(--text-secondary)]">Mobile Menu</div>
                     </div>
                   </div>

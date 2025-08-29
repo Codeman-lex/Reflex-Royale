@@ -1,10 +1,10 @@
 {
-  "name": "solana-casino-backend",
+  "name": "reflex-royale-backend",
   "version": "1.0.0",
-  "description": "Advanced backend for Solana Casino Platform",
+      "description": "Advanced backend for Reflex Royale Platform",
   "main": "dist/index.js",
   "scripts": {
-    "dev": "nodemon src/index.ts",
+    "dev": "nodemon simple-server.js",
     "build": "tsc",
     "start": "node dist/index.js",
     "test": "jest",
@@ -53,7 +53,7 @@
     "nodemailer": "^6.9.7",
     "twilio": "^4.19.3",
     "stripe": "^14.9.0",
-    "prometheus-client": "^1.0.0",
+    "prom-client": "^15.1.0",
     "elastic-apm-node": "^4.5.2",
     "swagger-ui-express": "^5.0.0",
     "swagger-jsdoc": "^6.2.8"
